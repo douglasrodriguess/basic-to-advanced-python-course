@@ -1,6 +1,5 @@
 import statistics
 
-
 def media(num, nome):
     """
     Funcao que calcula a media
