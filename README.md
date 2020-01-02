@@ -120,21 +120,20 @@
 │       └── VideoLesson75_TryExcept.py
 ├── 13-reading-and-writing-in-files
 │   ├── code
-│   │   ├── frutas.txt
-│   │   ├── novotexto.txt
 │   │   ├── README.md
-│   │   ├── texto.txt
-│   │   ├── textox.txt
 │   │   ├── VideoLesson88_ReadingFiles.py
 │   │   ├── VideoLesson89_seekandcursors.py
 │   │   ├── VideoLesson90_commandwith.py
 │   │   ├── VideoLesson91_writinginfiles.py
 │   │   ├── VideoLesson92_filesmode.py
 │   │   ├── VideoLesson93_StringIo.py
-│   │   └── VideoLesson94_filesystemnavigation.py
+│   │   ├── VideoLesson94_filesystemnavigation.py
+│   │   └── VideoLesson95_ manipulationfilesystem.py
 │   └── exercise
 │       └── List.pdf
-└── README.md
+├── README.md
+└── ubuntu
+
 ```
 
 ## Dica de como fazer isso:
