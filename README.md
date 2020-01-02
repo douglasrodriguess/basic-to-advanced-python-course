@@ -1,5 +1,6 @@
 # Basic to advanced python course
 
+```bash
 ├── 03-Python-Introduction
 │   └── code
 │       ├── basicexercises.py
@@ -134,3 +135,4 @@
 │   └── exercise
 │       └── List.pdf
 └── README.md
+```
