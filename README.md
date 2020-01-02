@@ -136,3 +136,10 @@
 │       └── List.pdf
 └── README.md
 ```
+
+## Dica de como fazer isso:
+1. sudo apt install Tree 
+2. Tree 
+3. Cópia e cola aqui
+4. Coloca antes e depois do texto: "```bash"...```" (Ps: (Três acentos de crase)bash[arvore](três acentos de crase))
+
