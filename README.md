@@ -1,2 +1,1 @@
-# python-basic-to-advance-course
-:punch: 
+# Basic to advanced python course
