@@ -1,5 +1,6 @@
 """
 Tipo numérico
+
 """
 
 print('-'*40)
@@ -32,7 +33,7 @@ num /= 2
 print(f'{num}')
 
 print('-'*40)
-# Função type(): retorna o tipo numérico daquela variável
+# A Função type() retorna o tipo numérico daquela variável
 print("Funcao type()")
 num = 4
 print(type(4))
